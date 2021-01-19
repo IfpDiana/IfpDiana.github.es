@@ -10,4 +10,4 @@ Uno de los más famosos, ha sido **Gris**, siendo llamativo a la hora de diseño
 
 El siguiente juego es **rime**, el videojuego trata de un niño que se encuentra solo en un mundo en el cual tiene que buscar el camino para encontrar respuestas.
 
-<img src=" https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Rime.jpg">
+<img src="https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Rime.jpg">

@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenido a la página Web de Videojuegos.
 
-You can use the [editor on GitHub](https://github.com/IfpDiana/IfpDiana.github.es/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aquí vamos a hablar de algunos videojuegos que han sido llamativos y diseñados en España.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
